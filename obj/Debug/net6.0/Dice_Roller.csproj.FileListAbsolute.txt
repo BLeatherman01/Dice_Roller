@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Dice_Roller\bin\Debug\net6.0\Dice_Roller.exe
+C:\Users\bleat\source\repos\Dice_Roller\bin\Debug\net6.0\Dice_Roller.deps.json
+C:\Users\bleat\source\repos\Dice_Roller\bin\Debug\net6.0\Dice_Roller.runtimeconfig.json
+C:\Users\bleat\source\repos\Dice_Roller\bin\Debug\net6.0\Dice_Roller.dll
+C:\Users\bleat\source\repos\Dice_Roller\bin\Debug\net6.0\Dice_Roller.pdb
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.dll
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\refint\Dice_Roller.dll
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.pdb
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\Dice_Roller.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Dice_Roller\obj\Debug\net6.0\ref\Dice_Roller.dll
